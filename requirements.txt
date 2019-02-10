@@ -1,0 +1,9 @@
+colorama==0.4.1
+escpos==1.6
+libusb1==1.7
+Pillow==5.4.1
+pyserial==3.4
+python-printer-escpos==0.0.3
+pyusb==1.0.2
+qrcode==6.1
+six==1.12.0
